@@ -1,11 +1,11 @@
 const config = {
   contentPath: 'content',
   dataPath: 'data',
-  siteTitle: 'Thada', // Site title.
+  siteTitle: 'Natcharin Janhom Profile', // Site title.
   siteTitleShort: 'Thada W', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: 'Thada W.', // Alternative site title for SEO.
   siteLogo: '/logos/android-chrome-512x512.png', // Logo used for SEO and manifest.
-  siteUrl: 'https://aaronamm.github.io', // Domain of your website without pathPrefix.
+  siteUrl: 'https://natcharinj.github.io', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   nodePrefix: '/b', // Prefixes for only post created by createNodeField from `gastby-node.js`
   siteDescription: 'Thada personal portfolio site', // Website description used for RSS feeds/meta description tag.
@@ -20,9 +20,9 @@ const config = {
     name: 'Thada', // Username to display in the author segment.
     email: 'your-email@gmail.com', // Email used for RSS feed's author segment
     twitter: 'mildronize', // For SEO
-    github: 'mildronize', // For showing Github Calendar and recent activities
+    github: 'natcharinj', // For showing Github Calendar and recent activities
     location: 'Songkhla, Thailand', // User location to display in the author segment and SEO.
-    avatar: 'https://avatars.githubusercontent.com/u/3647850?v=4', // User avatar to display in the author segment.
+    avatar: 'https://avatars.githubusercontent.com/u/79293152?v=4', // User avatar to display in the author segment.
     description:
       // User description to display in the author segment.'
       'Yeah, I like animals better than people sometimes... ' +
@@ -38,7 +38,7 @@ const config = {
   userLinks: [
     {
       label: 'GitHub',
-      url: 'https://github.com/mildronize',
+      url: 'https://github.com/natcharinj',
       iconClassName: ['fa', 'github'],
     },
     {
